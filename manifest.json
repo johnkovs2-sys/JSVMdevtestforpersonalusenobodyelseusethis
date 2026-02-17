@@ -1,0 +1,25 @@
+{
+  "name": "JSVM P3",
+  "short_name": "JSVM",
+  "id": "/JSVM/",
+  "start_url": "/JSVMdevtestforpersonalusenobodyelseusethis/index.html",
+  "scope": "/JSVMdevtestforpersonalusenobodyelseusethis/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
